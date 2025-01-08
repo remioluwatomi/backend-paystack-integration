@@ -26,19 +26,18 @@ A backend service for securely initializing payments using the Paystack Payment 
 
 1. Clone this repository:
 
-   ````bash
+   ```bash
    git clone https://github.com/remioluwatomi/backend-paystack-integration.git
 
-   cd backend-paystack-integration```
+   cd backend-paystack-integration
 
-   ````
+   ```
 
 2. Install dependencies:
 
-   ````bash
-   npm install```
-
-   ````
+   ```bash
+   npm install
+   ```
 
 3. Create a .env file in the project root and add the following environment variables::
 
@@ -51,9 +50,9 @@ A backend service for securely initializing payments using the Paystack Payment 
    ````
 
 4. Start the development server::
-   ````bash
-   npm START```
-   ````
+   ```bash
+   npm START
+   ```
 
 ## Endpoints
 
@@ -93,7 +92,7 @@ Initializes a payment transaction with Paystack.
 
 ## Disclaimer:
 
-This project is intended for educational purposes only. It demonstrates how to integrate backend payment functionality with Paystack and is not production-ready. Use this code as a reference or starting point for your own secure implementation.
+This project is intended for educational purposes only. It demonstrates how to integrate backend payment functionality with Paystack. Use this code as a reference or starting point for your own secure implementation.
 
 ## License
 
